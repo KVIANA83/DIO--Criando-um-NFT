@@ -12,3 +12,7 @@ O objetivo deste desafio é guiar você através do processo de criação de um 
 
 3. **Publicação na OpenSea**: Aprenda como listar seu NFT na plataforma OpenSea para que ele possa ser comprado, vendido e trocado.
 
+### Instruções de Envio do NFT:
+
+- **OpenSea – Polygon:** 0xA9155F5B6FC993A82346a8ff86EFEf513fc4c096
+- **Uptick:** iaa1ld2ck02x0909lg5tkqwdkfnsnsz7mmg6952jar
